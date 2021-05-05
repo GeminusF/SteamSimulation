@@ -6,4 +6,4 @@ public class EStateVerification {
 	String lastName;
 	int birthDate;
 
-}
+} 
